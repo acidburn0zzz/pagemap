@@ -23,7 +23,7 @@
     "@babel/preset-env": "7.4.4",
     "eslint": "5.16.0",
     "ghu": "0.20.0",
-    "jsdom": "15.0.0",
+    "jsdom": "16.5.0",
     "scar": "1.7.0"
   },
   "engines": {
